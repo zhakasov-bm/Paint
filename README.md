@@ -16,3 +16,5 @@ A paint application for iPad that contains various tools for drawing and creatin
 5. Draw the object on the canvas by tapping and dragging with your finger.
 6. Use the Undo button to remove the last drawn object, or long press to remove all objects from the screen.
 
+## Preview
+
